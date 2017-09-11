@@ -1,0 +1,10 @@
+{
+  "name": "ideal-fiesta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christian Engen <chris.a.engen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.3.0"
+  }
+}
